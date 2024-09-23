@@ -1,0 +1,3 @@
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab2/Codes/Activity1_cpp_codes/cmake-build-debug/CMakeFiles/Activity1_cpp_codes.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab2/Codes/Activity1_cpp_codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab2/Codes/Activity1_cpp_codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
